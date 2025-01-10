@@ -1,4 +1,4 @@
-# 숫자 카드 2 / Silver 4 / 1h"
+# 숫자 카드 2 / Silver 4 / 1h
 N = int(input())
 card = list(map(int,input().split()))
 card.sort()
