@@ -1,4 +1,4 @@
-# 바이러스 / Silver 3 / 
+# 바이러스 / Silver 3 / 50m
 N = int(input())
 
 M = int(input())
