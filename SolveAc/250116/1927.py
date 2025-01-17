@@ -1,4 +1,4 @@
-# 최소 힙 / Silver 2 / 
+# 최소 힙 / Silver 2 / 30m
 import heapq
 import sys
 N = int(sys.stdin.readline())

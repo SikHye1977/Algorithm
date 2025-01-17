@@ -1,4 +1,4 @@
-# 유기농 배추 / Silver 2 /
+# 유기농 배추 / Silver 2 / 1h
 T = int(input())
 
 dx = [-1,1,0,0]
