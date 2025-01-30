@@ -1,4 +1,4 @@
-# [BOJ] 주몽 / Silver 4 /
+# [BOJ] 주몽 / Silver 4 / 45m
 N = int(input())
 M = int(input())
 arr = list(map(int,input().split()))
