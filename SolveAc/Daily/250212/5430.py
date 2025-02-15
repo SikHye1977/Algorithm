@@ -1,4 +1,4 @@
-# [BOJ] AC / GOLD 5 /
+# [BOJ] AC / GOLD 5 / 1h
 import sys
 from collections import deque
 
