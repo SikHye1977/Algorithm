@@ -13,3 +13,10 @@ for i in range(M):
   temp = input()
   if temp in arr:
     print(arr[temp])
+
+# Dictionary를 이용하는 간단한 문제
+# 사이트 주소와 비밀번호를 입력받은 후
+# dict에 key, value로 저장
+# 이후 반복문을 돌면서 
+# if temp in arr: 를 이용해
+# 찾고자하는 사이트의 비밀번호를 출력
