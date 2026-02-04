@@ -1,4 +1,4 @@
-# 수 정렬하기 3 / Bronze 1 / 
+# 수 정렬하기 3 / Bronze 1 / 20m
 import sys
 
 N = int(sys.stdin.readline())
