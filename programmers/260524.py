@@ -1,4 +1,4 @@
-# [프로그래머스] 다음에 올 숫자 / Lv.0 / 30h
+# [프로그래머스] 다음에 올 숫자 / Lv.0 / 30m
 def solution(common):
     list = []
     end = len(common)
